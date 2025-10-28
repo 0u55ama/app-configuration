@@ -1,5 +1,5 @@
 build:
   id: 102
   version: 101.2
-  name: "Prod-Git-Prod-Build"
-  type: "Git Prod Build"
+  name: "Dev-Git-Prod-Build"
+  type: "Git Dev Build"
